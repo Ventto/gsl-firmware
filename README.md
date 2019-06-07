@@ -25,6 +25,7 @@ for copyright information.
 
 | Manufacturer  | Device                          | Tested  | Firmware                                                       |
 |---------------|---------------------------------|---------|----------------------------------------------------------------|
+| Ordissimo     | VZ6                             | yes     | [firmware/ordissimo/vz6](firmware/ordissimo/vz6)               |
 | Chuwi         | hi8                             | yes     | [firmware/chuwi/hi8](firmware/chuwi/hi8)                       |
 | Chuwi         | Hi8 Air                         | yes     | [firmware/chuwi/hi8_air](firmware/chuwi/hi8_air)               |
 | Chuwi         | vi8                             | no      | [firmware/chuwi/vi8](firmware/chuwi/vi8)                       |
